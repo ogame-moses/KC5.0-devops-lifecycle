@@ -26,25 +26,25 @@ Continuous monitoring and logging help  detect issues early and maintain system 
 #DevOps Lifecycle Stages
 
 Planning
--Define project goals and requirements, and create a roadmap for development
+--Define project goals and requirements, and create a roadmap for development
 
 Development
--Write and review code, ensuring it meets the project's standards
+--Write and review code, ensuring it meets the project's standards
 
 Building
--Compile and integrate code into executable code/artifacts
+--Compile and integrate code into executable code/artifacts
 
 Testing
--Identify and fix defects through automated and manual testing
+--Identify and fix defects through automated and manual testing
 
 Release
--this stage witnesses preparing artifacts, approvals, change management etc
+--this stage witnesses preparing artifacts, approvals, change management etc
 
 Deployment
-- Release the software to staging or production environments
+--release the software to staging or production environments
 
 Operations
--Manage and operate the software in production, ensuring it runs smoothly and available
+--Manage and operate the software in production, ensuring it runs smoothly and available
 
 Monitoring
--involve Tracking performance and health of the software, identifying any issues and collect logs
+--involve Tracking performance and health of the software, identifying any issues and collect logs
