@@ -4,6 +4,7 @@ and it describe the following content
 1. Foundational DevOps concepts
 2. DevOps Lifecycle stages
 
+https://www.speedtest.net/result/18206323838
 #DevOps is a set of practices, tools, and a cultural philosophy that aims to improve collaboration and automate processes between software development(DEV) and IT operations(Ops) teams.it is practice widely adopted in modern software development to improve efficiency, reliability, and collaboration.
 
 #Core principles
